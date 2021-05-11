@@ -22,6 +22,7 @@ int main(){
     t2.get_a();
     // t2.show_a();
     cout << "Biggest: " << t1.biggest(t2) << endl;
+    getch();
     return 0;
 }
 int test::get_a(){

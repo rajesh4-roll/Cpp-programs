@@ -20,5 +20,6 @@ int main(){
     cout << "sum(a, b): " << sum(a,b) << endl;
     cout << "sum(a): " << sum(a) << endl;
     cout << "sum(): " << sum() << endl;
+    getch();
     return 0;
 }
