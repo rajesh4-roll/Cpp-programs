@@ -1,3 +1,13 @@
+/*
+    File:mat.cpp
+    ------------------------------------------
+    This program initilize the memory in heap 
+    and program to store the values so to find
+    the matrix multiplication and displays the 
+    result.
+*/
+
+
 #include <iostream>
 using namespace std;
 int main(){
