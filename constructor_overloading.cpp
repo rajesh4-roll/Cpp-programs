@@ -21,7 +21,7 @@ public:
     }    
     
     stu(char name[20], char course[20],float fee){
-        stu::stu(name, course); // calling construcotor
+        stu(name, course); // calling construcotor
         //strcpy(this->name, name);
         //strcpy(this->course, course);
         this->fee = fee;

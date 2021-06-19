@@ -1,0 +1,8 @@
+#include <iostream.h>
+int main(){
+	//add the codes here
+	
+	cout << "Hello, World!" << endl;
+	
+	return 0;
+}
