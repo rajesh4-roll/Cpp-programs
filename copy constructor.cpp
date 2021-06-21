@@ -15,7 +15,7 @@ public:
         this->a = a;
         this->b = b;
     }
-    sample(sample &old){ // copy constructor
+    sample(const sample &old){ // copy constructor
         a = old.a;
         b = old.b;
     }
