@@ -9,7 +9,9 @@
 */
 #include <iostream>
 using namespace std;
+
 #define SQUARE(x) x*x
+
 int sqr(int x){
     return x*x;
 };
